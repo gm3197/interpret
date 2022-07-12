@@ -177,3 +177,5 @@ dist
 
 .svelte-kit/
 package
+
+public/build
